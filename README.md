@@ -1,6 +1,6 @@
 # Strojno učenje 1 – laboratorijske vježbe
 
-Laboratorijske vježbe iz kolegija Strojno učenje 1 (FER, ak. god. 2024./2025.), riješene u Pythonu (Jupyter Notebook). Zadaci i okvir bilježnica preuzeti su s kolegija (autori: Jan Šnajder i Domagoj Alagić), a rješenja su moja.
+Laboratorijske vježbe iz kolegija Strojno učenje 1 (FER), riješene u Pythonu (Jupyter Notebook). Zadaci i okvir bilježnica preuzeti su s kolegija.
 
 ## Sadržaj
 
@@ -16,13 +16,6 @@ Laboratorijske vježbe iz kolegija Strojno učenje 1 (FER, ak. god. 2024./2025.)
 
 Python, NumPy, pandas, SciPy, scikit-learn, Matplotlib, pgmpy
 
-## Pokretanje
-
-```bash
-pip install numpy pandas scipy scikit-learn matplotlib pgmpy
-```
-
-Zatim otvori željenu bilježnicu u Jupyteru ili Google Colabu.
 
 ## Autor
 
